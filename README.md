@@ -12,8 +12,8 @@ How to Run?
 A grid will appear where you can add energy producers using the GUI.
 
 Project Structure
-Baterija.java – energy storage class with capacity management
-Proizvodjac.java – abstract class representing energy producers
-Hidroelektrana.java – concrete class for hydroelectric power plants
-EnergetskiSistem.java – main class containing GUI logic
-Plac.java, Parcela.java, etc. – classes representing grid and land elements
+- Baterija.java – energy storage class with capacity management
+- Proizvodjac.java – abstract class representing energy producers
+- Hidroelektrana.java – concrete class for hydroelectric power plants
+- EnergetskiSistem.java – main class containing GUI logic
+- Plac.java, Parcela.java, etc. – classes representing grid and land elements
